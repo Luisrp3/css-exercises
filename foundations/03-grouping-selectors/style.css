@@ -1,4 +1,11 @@
 button {
     font-size: 28px;
     font-family: Helvetica, 'Times New Roman', sans-serif;
+    background-color: #ffff00;
+}
+
+.black-button {
+    background-color: #000000;
+    color: #ffffff;
+    font-weight: bold;
 }
